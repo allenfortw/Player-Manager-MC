@@ -1,4 +1,4 @@
-# Spigot Protection Plugins
+# Minecraft Player Managers Code
 
 這個項目包含了一系列用於Spigot服務器的保護插件,旨在提供基本的遊戲行為控制。這些插件是基於Spigot API 1.8.8版本開發的。
 
