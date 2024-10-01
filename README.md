@@ -54,4 +54,6 @@ boolean isEnabled = antiPlace.isEnabled();
 
 ## 聯繫方式
 
-[在此插入您的聯繫信息]
+Gmail : allenmc.su@gmail.com
+Website : https://www.allenpixel.com
+Discord : allentw0524
